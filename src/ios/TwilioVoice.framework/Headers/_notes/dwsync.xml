@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TVOAcceptOptions.h" server="f2f.genialt.no//interface.io/" local="132305029134039861" remote="132305031600000000" Dst="2" />
+<file name="TVOAudioCodec.h" server="f2f.genialt.no//interface.io/" local="132305029134319752" remote="132305031600000000" Dst="2" />
+<file name="TVOAudioDevice.h" server="f2f.genialt.no//interface.io/" local="132305029134559613" remote="132305031600000000" Dst="2" />
+<file name="TVOAudioFormat.h" server="f2f.genialt.no//interface.io/" local="132305029134799501" remote="132305031600000000" Dst="2" />
+<file name="TVOBaseTrackStats.h" server="f2f.genialt.no//interface.io/" local="132305029135029385" remote="132305031600000000" Dst="2" />
+<file name="TVOCall.h" server="f2f.genialt.no//interface.io/" local="132305029135269274" remote="132305031600000000" Dst="2" />
+<file name="TVOCallDelegate.h" server="f2f.genialt.no//interface.io/" local="132305029135499161" remote="132305031600000000" Dst="2" />
+<file name="TVOCallInvite.h" server="f2f.genialt.no//interface.io/" local="132305029135759036" remote="132305031600000000" Dst="2" />
+<file name="TVOCallOptions.h" server="f2f.genialt.no//interface.io/" local="132305029135988926" remote="132305031600000000" Dst="2" />
+<file name="TVOCancelledCallInvite.h" server="f2f.genialt.no//interface.io/" local="132305029136218821" remote="132305031600000000" Dst="2" />
+<file name="TVOConnectOptions.h" server="f2f.genialt.no//interface.io/" local="132305029136438709" remote="132305031600000000" Dst="2" />
+<file name="TVOError.h" server="f2f.genialt.no//interface.io/" local="132305029136908491" remote="132305031600000000" Dst="2" />
+<file name="TVODefaultAudioDevice.h" server="f2f.genialt.no//interface.io/" local="132305029136678607" remote="132305031600000000" Dst="2" />
+<file name="TVOIceCandidatePairStats.h" server="f2f.genialt.no//interface.io/" local="132305029137128395" remote="132305031600000000" Dst="2" />
+<file name="TVOIceCandidateStats.h" server="f2f.genialt.no//interface.io/" local="132305029137368271" remote="132305031600000000" Dst="2" />
+<file name="TVOIceOptions.h" server="f2f.genialt.no//interface.io/" local="132305029137608152" remote="132305031600000000" Dst="2" />
+<file name="TVOLocalAudioTrackStats.h" server="f2f.genialt.no//interface.io/" local="132305029137838049" remote="132305031600000000" Dst="2" />
+<file name="TVOLocalTrackStats.h" server="f2f.genialt.no//interface.io/" local="132305029138067930" remote="132305031600000000" Dst="2" />
+<file name="TVONotificationDelegate.h" server="f2f.genialt.no//interface.io/" local="132305029138317810" remote="132305031600000000" Dst="2" />
+<file name="TVOOpusCodec.h" server="f2f.genialt.no//interface.io/" local="132305029138537711" remote="132305031600000000" Dst="2" />
+<file name="TVOPcmuCodec.h" server="f2f.genialt.no//interface.io/" local="132305029138767592" remote="132305031600000000" Dst="2" />
+<file name="TVORemoteAudioTrackStats.h" server="f2f.genialt.no//interface.io/" local="132305029138997486" remote="132305031600000000" Dst="2" />
+<file name="TVORemoteTrackStats.h" server="f2f.genialt.no//interface.io/" local="132305029139227379" remote="132305031600000000" Dst="2" />
+<file name="TVOStatsReport.h" server="f2f.genialt.no//interface.io/" local="132305029139447273" remote="132305031600000000" Dst="2" />
+<file name="TwilioVoice.h" server="f2f.genialt.no//interface.io/" local="132305029139677164" remote="132305031600000000" Dst="2" />
+</dwsync>
