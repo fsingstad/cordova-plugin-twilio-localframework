@@ -48,6 +48,7 @@
 
         var error = function(error) {
             //TODO: Handle errors here
+            console.log(error);
             if(delegate['onerror']) delegate['onerror'](error)
         }
 
