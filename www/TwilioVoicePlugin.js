@@ -2,7 +2,7 @@
 
 	var TwilioCallPlugin = function() {};
 
-    TwilioPlugin.prototype.initialize = function(token) {
+    TwilioCallPlugin.prototype.initialize = function(token) {
 
             var error = function(error) {
                 //TODO: Handle errors here
