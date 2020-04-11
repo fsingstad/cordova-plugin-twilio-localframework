@@ -9,7 +9,7 @@
     <author>Jeff Linwood/Stevie Graham/Lyle Pratt</author>
     <license>MIT</license>
     <js-module name="CordovaCall" src="www/TwilioVoicePlugin.js">
-        <clobbers target="TwilioPlugin.TwilioVoiceClient" />
+        <clobbers target="TwilioPlugin" />
     </js-module>
 
     <engines>
