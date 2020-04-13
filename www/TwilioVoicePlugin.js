@@ -23,19 +23,7 @@
   
 
   TwilioCallPlugin.prototype.call = function(token, params) {
-      var error = function(error) {
-          //TODO: Handle errors here
-          console.log(error);
-          if(delegate['onerror']) delegate['onerror'](error)
-      }
-
-      var success = function(callback) {
-          console.log(callback)
-          var argument = callback['arguments'];
-          if (delegate[callback['callback']]) delegate[callback['callback']](argument);
-      }
-	  
-      exec(success,error,"TwilioVoicePlugin","call",[token, params]);
+      exec(null,null,"TwilioVoicePlugin","call",[token, params]);
   }
 
   TwilioCallPlugin.prototype.sendDigits = function(digits) {
